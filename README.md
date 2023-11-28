@@ -14,4 +14,5 @@ ___
 - [L.W. 3](./L.W.%203/) (Creating constructor)
 - [L.W. 4](./L.W.%204/) (Creating a destructor)
 - [L.W. 5-6](./L.W.%205-6/) (Overload of operators)
-- [L.W. 6-7](./L.W.%207-8/) (Implementation of inheritance/Code simplification)
+- [L.W. 7-8](./L.W.%207-8/) (Realization of inheritance)
+- [L.W. 9-10](./L.W.%209-10/) (Implementation of multiple inheritance)
